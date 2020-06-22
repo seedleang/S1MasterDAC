@@ -1,2 +1,3 @@
 # Master DAC
-Projets et travaux dirigés de la première année de Master en Data Science et Machine Learning.
+Projets et travaux dirigés,
+réalisés durant le M1 en Data Science et Machine Learning.
